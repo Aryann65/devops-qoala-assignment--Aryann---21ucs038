@@ -39,3 +39,4 @@ Cloud Deployment Endpoint: http://<insert-cloud-ip-address>
 ## Attachments
 Screenshot of the application's success page confirming assignment completion.
 Screenshot of nginx access logs verifying a successful request to the application.
+These screenshots are attached with the repository.
