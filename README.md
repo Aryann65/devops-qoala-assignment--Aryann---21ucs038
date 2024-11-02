@@ -38,6 +38,14 @@ The application is now successfully deployed on a cloud server, fully operationa
 Cloud Deployment Endpoint: http://<insert-cloud-ip-address>
 
 ## Attachments
-Screenshot of the application's success page confirming assignment completion.
-Screenshot of nginx access logs verifying a successful request to the application.
-These screenshots are attached with the repository.
+Screenshot of the application's success page confirming assignment completion 
+and screenshot of nginx access logs verifying a successful request to the application 
+are attached below.
+## Screenshots
+
+### Success Page
+![Success Page](./Screenshot%202024-10-29%20183629.png)
+
+### Nginx Access Logs
+![Nginx Logs](./Screenshot%202024-10-29%20225027.png)
+
