@@ -34,8 +34,8 @@ Outcome
 ---
 The application is now successfully deployed on a cloud server, fully operational with production-level stability using gunicorn.
 
-## Deployment Access
-Cloud Deployment Endpoint: http://<insert-cloud-ip-address>
+## Deployment Access(AWS)
+Cloud Deployment Endpoint: http://13.51.204.137/
 
 ## Attachments
 Screenshot of the application's success page confirming assignment completion 
